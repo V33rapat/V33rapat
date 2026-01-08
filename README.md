@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Third-year Computer Science student at Khon Kaen University  <br>📊 Interested in Data Analysis and working with data  <br>🛠 Experience with Python, Pandas, SQL, and basic Machine Learning  <br>🚀 Currently building projects and improving my GitHub portfolio<br>
+🎓 Third-year Computer Science student at Khon Kaen University  <br>📊 Interested in Data Analysis, Data Engineer and working with data  <br>🛠 Experience with Python, Pandas, SQL, and basic Machine Learning  <br>🚀 Currently building projects and improving my GitHub portfolio<br>
 
 
 ## 🌐 Socials:
