@@ -1,5 +1,10 @@
 # 💫 About Me:
-Hi, I'm Veerapat 👋<br>🎓 Computer Science student at Khon Kaen University<br><br>💡 Interested in:<br>- Data Engineering<br>- Data Analytics<br>- Applied Machine Learning<br><br>🚀 Currently building projects and improving my GitHub portfolio
+### Hi, I'm Veerapat 👋
+<br>🎓 Computer Science student at Khon Kaen University<br>
+<br>This GitHub is a collection of my academic projects, experiments, and hands-on work related to data processing, web development, and system integration.<br>
+<br>I enjoy learning new technologies by applying them to real problems, especially projects involving data collection, data handling, and collaboration in team environments.<br>
+
+
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:veerapat.visaidsombat@gmail.com) 
